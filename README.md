@@ -8,6 +8,6 @@ The temporary information that is injected into the data source is the minimum n
 * Name of the attribute that contains the time information.
 * Pattern used to recognize the date contained in the attribute.
 
-The tool create a new virtual attribute con this information in the data source.
+The tool create a new virtual attribute with this information in the data source.
 
-This tool is only able to handle times in date format. It can not work with sequences.
+This tool is only able to handle times in date format. It can not work with sequences (seconds, minutes, hours, days ...).
