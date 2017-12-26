@@ -1,0 +1,21 @@
+#
+#Tue Dec 26 15:11:13 CET 2017
+owner=gvSIG association
+code=addBasicTimeSupportToDatasource
+java-version=j1_7
+official=true
+type=Script
+version=1.0.0-1
+state=testing
+operating-system=all
+dependencies=
+sources-url=http\://github.com/gvSIGAssociation/gvsig-desktop-scripting-addBasicTimeSupportToDatasource
+web-url=http\://github.com/gvSIGAssociation/gvsig-desktop-scripting-addBasicTimeSupportToDatasource
+architecture=all
+model-version=1.0.1
+categories=View, Time
+description=Dialog to inject basic time support to a vectorial data source.
+owner-url=http\://www.gvsig.com
+buildNumber=1
+gvSIG-version=2.4.0
+name=Tools\: add basic time support to data source
