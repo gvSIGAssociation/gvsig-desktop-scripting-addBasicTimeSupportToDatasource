@@ -943,7 +943,7 @@
             <at name="icon">
              <object classname="com.jeta.forms.store.properties.IconProperty">
               <at name="embedded">false</at>
-              <at name="path">addons/addTimeSupport/images/Calendar_16x16.png</at>
+              <at name="path">addons/addBasicTimeSupportToDatasource/images/Calendar_16x16.png</at>
               <at name="description">Calendar_16x16.png</at>
               <at name="width">16</at>
               <at name="height">16</at>
@@ -1007,7 +1007,7 @@
             <at name="icon">
              <object classname="com.jeta.forms.store.properties.IconProperty">
               <at name="embedded">false</at>
-              <at name="path">addons/addTimeSupport/images/Calendar_16x16.png</at>
+              <at name="path">addons/addBasicTimeSupportToDatasource/images/Calendar_16x16.png</at>
               <at name="description">Calendar_16x16.png</at>
               <at name="width">16</at>
               <at name="height">16</at>
