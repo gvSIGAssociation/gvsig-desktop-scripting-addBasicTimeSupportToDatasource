@@ -1,11 +1,11 @@
 #
-#Tue Jun 12 11:51:57 CEST 2018
+#Tue Jun 12 11:55:11 CEST 2018
 owner=gvSIG association
 code=addBasicTimeSupportToDatasource
 java-version=j1_7
 official=true
 type=Script
-version=1.0.0-3
+version=1.0.0-4
 state=testing
 operating-system=all
 dependencies=
@@ -16,6 +16,7 @@ model-version=1.0.1
 categories=View,Time
 description=This tool adds to a data source the information necessary for gvSIG to interpret the time values correctly and the data source can be used by the tools that wait for the data provider to provide this information.\n\nThe temporary information that is injected into the data source is the minimum necessary. This is\:\n\n* Time interval for which data is provided.\n* Name of the attribute that contains the time information.\n* Pattern used to recognize the date contained in the attribute.\n\nThe tool create a new virtual attribute with this information in the data source.\n\nThis tool is only able to handle times in date format. It can not work with sequences (seconds, minutes, hours, days ...).
 owner-url=http\://www.gvsig.com/
-buildNumber=3
+buildNumber=4
+download-url=https\://github.com/gvSIGAssociation/gvsig-desktop-scripting-addBasicTimeSupportToDatasource/releases/download/1.0.0-3/gvSIG-desktop-2.4.1-addBasicTimeSupportToDatasource-1.0.0-3-testing-all-all-j1_7.gvspkg
 gvSIG-version=2.4.1
 name=Tools\: add basic time support to data source
